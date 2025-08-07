@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🔥 Fire Weather Index (FWI) Prediction App
 
 A lightweight Flask web application that predicts the **Fire Weather Index (FWI)** using a Ridge Regression model trained on Algerian forest fire data. Built with a clean, responsive UI using Bootstrap 5.
@@ -108,3 +109,7 @@ Enter your weather data and click **"Predict FWI"**.
 # Algerian-Forest-Fires
 A simple app that predicts the Fire Weather Index (FWI) using an Algerian dataset. It applies Standard Scaler for preprocessing and Ridge Regression for prediction, helping with early fire risk assessment based on weather data.
 >>>>>>> e5e7d7097db195aa82aa5b3d46f2ed5cca7fafc5
+=======
+# Algerian-Forest-Fires
+A simple app that predicts the Fire Weather Index (FWI) using an Algerian dataset. It applies Standard Scaler for preprocessing and Ridge Regression for prediction, helping with early fire risk assessment based on weather data.
+>>>>>>> 8deb98e47978a511306849fbd84db019a0a5897a
