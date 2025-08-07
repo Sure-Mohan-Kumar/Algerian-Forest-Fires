@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # 🔥 Fire Weather Index (FWI) Prediction App
 
 A lightweight Flask web application that predicts the **Fire Weather Index (FWI)** using a Ridge Regression model trained on Algerian forest fire data. Built with a clean, responsive UI using Bootstrap 5.
